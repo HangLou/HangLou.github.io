@@ -177,7 +177,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  activities:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -223,7 +223,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Activities
+      type: talks
     values:
       layout: talk
       author_profile: true
