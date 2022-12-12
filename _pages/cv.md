@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics, Fist Class Honours, Imperial College London, 2014-2017
+* M.Sc. in Statistics, Distinction, Imerial College London, 2017-2018
+* Ph.D in Mathematics, University College London, 2019-2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April-Oct 2021: Arabesque AI 
+  * AI research intern
+  * Duties: 
+    * Time series feature engineering and market clustering, 
+    * AI engine training and evaluation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Summer 2016: Zeus Capital
+  * Summer intern
+  * Duties: 
+    * Presented bottomed up research about ten stocks to senior management.
+    * Implemented Modern Portfolio Theory and build up an Efficient Frontier for stocks.
+
+
+* Summer 2016: Stanhope Capital
+  * Summer intern
+  * Duties: 
+    * Research and presented China’s 2016 credit bubble.
+    * Regularly attended portfolio meetings and client-facing meetings.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: English, Mandarin
+* Software: Python,Github, Pytorch, Matlab, Tensorflow, Keras, Latex, R, Scala, Spark, PowerPoint
 
 Publications
 ======
@@ -48,12 +55,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mixed team captain of university badminton (both Imperial and UCL).
+
+
+=====
+You can download a PDF copy of my CV [here](http://hanglou.github.io/files/Hang_Lou_CV.pdf).
