@@ -61,5 +61,5 @@ Service and leadership
 * Mixed team captain of university badminton (both Imperial and UCL).
 
 
-=====
+
 You can download a PDF copy of my CV [here](http://hanglou.github.io/files/Hang_Lou_CV.pdf).
