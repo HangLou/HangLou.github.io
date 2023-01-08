@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2022-04-01
-venue: 'Under review'
+venue: 'Submitted to Journal of Machine Learning Research'
 paperurl: 'https://arxiv.org/abs/2204.00740'
 citation: 'Lou, Hang, Siran Li, and Hao Ni. "Path Development Network with Finite-dimensional Lie Group Representation." arXiv preprint arXiv:2204.00740 (2022)'
 ---
